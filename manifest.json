@@ -1,0 +1,12 @@
+{
+  "short_name": "Spozzz",
+  "name": "Spozzz – Share what you love",
+  "description": "Your world of hidden gems",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#C4733F",
+  "background_color": "#F5F0E8",
+  "icons": [
+    { "src": "favicon.ico", "sizes": "64x64", "type": "image/x-icon" }
+  ]
+}
